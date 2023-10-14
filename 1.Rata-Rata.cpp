@@ -13,6 +13,7 @@ int main()
 	}
 	rata2=sum/i;
 	cout<<rata2;
+	return 0;
 }
 
 
